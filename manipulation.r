@@ -39,7 +39,7 @@ output <- output[-1,]
 output$B02_spend <- as.double(output$B02_spend)
 
 # Write the file out
-# write.csv(output, file = "filtered_by_agency_2014.csv")
+write.csv(output, file = "filtered_by_agency_2014.csv")
 
 #### Diagnostics & Cleanup ####
 
