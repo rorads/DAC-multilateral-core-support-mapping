@@ -4,7 +4,7 @@
 #### Setup ####
 
 # Change this to the folder with the zip project
-setwd('/Users/roryscott/Organisation/Projects/Coverage/')
+setwd('/Users/roryscott/Organisation/Projects/Coverage/dac_multilateral_core_support_by_agency/')
 
 # Load the file (could possibly be done with an API Call but CBA right now)
 mums = read.csv("MultiSystem entire dataset.csv")
@@ -13,15 +13,15 @@ mums = read.csv("MultiSystem entire dataset.csv")
 B02 = subset(mums, Aid_T == "B02")
 
 #### Diagnostics for 2014 ####
-
-# Sweden table + spend
-sweden_2014 = subset(B02, Year == 2014 & donornameE == "Sweden")
-total_sweden_spend_2014 = sum(sweden_2014$usd_extended_defl, na.rm = 1)
-
-# Netherlands table + spend
-netherlands_2014 = subset(B02, Year == 2014 & donornameE == "Netherlands")
-total_netherlands_spend_2014 = sum(netherlands_2014$usd_extended_defl, na.rm = 1)
-
-# United Kingdom table + spend
-UK_2014 = subset(B02, Year == 2014 & donornameE == "United Kingdom")
-total_UK_spend_2014 = sum(UK_2014$usd_extended_defl, na.rm = 1)
+# 
+# # Sweden table + spend
+# sweden_2014 = subset(B02, Year == 2014 & donornameE == "Sweden")
+# total_sweden_spend_2014 = sum(sweden_2014$usd_extended_defl, na.rm = 1)
+# 
+# # Netherlands table + spend
+# netherlands_2014 = subset(B02, Year == 2014 & donornameE == "Netherlands")
+# total_netherlands_spend_2014 = sum(netherlands_2014$usd_extended_defl, na.rm = 1)
+# 
+# # United Kingdom table + spend
+# UK_2014 = subset(B02, Year == 2014 & donornameE == "United Kingdom")
+# total_UK_spend_2014 = sum(UK_2014$usd_extended_defl, na.rm = 1)
