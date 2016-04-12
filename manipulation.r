@@ -1,5 +1,6 @@
 # This script takes the initialised variables from Dac_Multilateral_Retrieval.r, and collates the agency level data for B02 data.
 
+
 #### Setup ####
 
 # Change this to the folder with the zip project
@@ -19,11 +20,11 @@ output = data.frame(country_name=character(),agency_name=character(), B02_spend=
 # Loop over each distinct country and create a temporary frame for its rows
 for (country in sort(unique(B02$donornameE))) {
   country_specific <- subset(B02, Year == year & donornameE == country)
-  
+
   # For each distinct agency givne the above country, create another temporary frame
   for (agency in sort(unique(country_specific$agencynameE))) {
     temp <- subset(country_specific, agencynameE == agency)
-    
+
     # create and append a vector comprising of the curent country and agency, and the aggregated B02 spend
     result_row <- c(country, agency, sum(temp$usd_extended_defl, na.rm = 1))
     l <- length(output$country_name)
