@@ -21,5 +21,5 @@ new_output_by_agency <- summarise(group_by(B02_by_year, donornameE, agencynameE)
 new_output_by_country <- summarise(group_by(B02_by_year, donornameE), "usd_extended_defl"= sum(usd_extended_defl, na.rm = TRUE))
 
 # Write the files out
-write.csv(new_output_by_agency, file = "simplified_filtered_by_agency_2014.csv")
-write.csv(new_output_by_country, file = "simplified_filtered_by_country_2014.csv")
+write.csv(new_output_by_agency, file = "simplified_filtered_by_agency.csv")
+write.csv(new_output_by_country, file = "simplified_filtered_by_country.csv")

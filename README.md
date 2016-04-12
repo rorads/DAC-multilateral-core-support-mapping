@@ -6,7 +6,7 @@ To run this script:
 
   Once this is done, move it to this repository and call it `MultiSystem entire dataset.csv`
 
-* Then change line 7 of Dac_Multilateral_Retrieval.r and manipulation.r to:
+* Then change these lines of Dac_Multilateral_Retrieval.r and manipulation.r to:
 
   ``` R
   setwd('<path to this repo\'s current directory>')
@@ -18,4 +18,4 @@ To run this script:
   year <- 2014
   ```
 
-Once these steps have been taken, run Dac_Multilateral_Retrieval.r, then manipulation.r. This will produce a CSV file in this directory called `filtered_by_agency_2014.csv`.
+Once these steps have been taken, run then manipulation.r. This will run Dac_Multilateral_Retrieval.r, and produce CSV file in this directory called `simplified_filtered_by_agency.csv` and `simplified_filtered_by_country.csv` for country and agency level aggregates. These files are small, so I've included them for reference. If you run manipulation, it will overwrite them with data from whichever year you choose.
