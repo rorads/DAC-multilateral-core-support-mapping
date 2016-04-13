@@ -1,4 +1,5 @@
 ## Available Data
+_last updated 2016-13-04_
 
 |                File                |       Description        |                                                           Link                                                           |
 |------------------------------------|--------------------------|--------------------------------------------------------------------------------------------------------------------------|
@@ -6,7 +7,7 @@
 | simplified_filtered_by_country.csv | country level B02 totals | [link](https://github.com/rory09/dac_multilateral_core_support_by_agency/blob/master/simplified_filtered_by_country.csv) |
 
 
-## Methodology
+## Methodology & Instructions for Refresh
 
 
 These scripts can be used to aggregate the 'Members' use of the Multilateral System' (MUMS) dataset from [OECD.stat](https://stats.oecd.org/Index.aspx?DataSetCode=CRS1#).
