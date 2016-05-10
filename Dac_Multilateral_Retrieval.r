@@ -3,8 +3,10 @@
 
 #### Setup ####
 
+library(dplyr)
+
 # Change this to the folder with the zip project
-setwd('/Users/roryscott/Organisation/Projects/Coverage/dac_multilateral_core_support_by_agency/')
+setwd('/Users/roryscott/Organisation/Projects/Coverage/dac_multilateral_core_support_by_agency/data/')
 
 # Load the file (could possibly be done with an API Call but CBA right now)
 mums = read.csv("MultiSystem entire dataset.csv")
