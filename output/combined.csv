@@ -1,0 +1,153 @@
+"","X","donornameE","agencynameE","usd_extended_defl","total_usd_disbursement"
+"1",1,"Australia","Australian Government",846.557982999,NA
+"2",2,"Australia","Miscellaneous",99.567272743,"375.0069533"
+"3",3,"Austria","Fed. Ministry for Agriculture, Forestry, Environment and Water Management",4.463112408,NA
+"4",4,"Austria","Federal Chancellery",0.143718884,"0.19822246"
+"5",5,"Austria","Federal Ministry for Europe, Integration and Foreign Affairs",21.286664783,NA
+"6",6,"Austria","Federal Ministry of Finance",557.032484562,"293.3205085"
+"7",7,"Austria","Ministry for Science, Research and Economy",0.284407062,NA
+"8",8,"Austria","Ministry of Interior",0.86884598,"67.8712252"
+"9",9,"Austria","Various ministries",4.708761638,"0.759516087"
+"10",10,"Belgium","Directorate General for Co-operation and Development",720.63430906,"872.0695728"
+"11",11,"Belgium","Flanders Official Regional Ministries",3.216300224,"72.66898625"
+"12",12,"Belgium","Official Federal Service of Finance",375.734321101,"3.3205552"
+"13",13,"Belgium","Official Federal Service of Foreign Affaires (excl. DGCD)",17.246764374,"125.1568846"
+"14",14,"Belgium","Other Official Federal Services",0.430615028,"245.1168126"
+"15",15,"Belgium","Walloon Official Regional Ministries",4.926739639,"27.6660309"
+"16",16,"Canada","Department of Finance Canada",469.89681774,"190.09723"
+"17",17,"Canada","Department of Foreign Affairs, Trade and Development ",517.580181533,NA
+"18",18,"Canada","Miscellaneous",19.916341728,"278.0876881"
+"19",19,"Canada","Provincial Governments and municipalities",5.926987316,"142.6101859"
+"20",20,"Czech Republic","Ministry of Environment",5.390454786,"0.4016935"
+"21",21,"Czech Republic","Ministry of Finance",139.659797109,"0.12524368"
+"22",22,"Czech Republic","Ministry of Foreign Affairs",9.606319808,"18.51959589"
+"23",23,"Czech Republic","Ministry of Industry and Trade",0.0121,"0.2717149"
+"24",24,"Czech Republic","Ministry of Regional Development",0.02297,NA
+"25",25,"Denmark","Ministry of Foreign Affairs",864.725375109,"1968.023263"
+"26",26,"Denmark","Other ministries",7.452868705,NA
+"27",27,"Estonia","Estonian Ministry of Foreign Affairs",1.671886097,NA
+"28",28,"Estonia","Other Ministries",20.488452053,NA
+"29",29,"EU Institutions","Commission of the European Communities",41.518278119,"9329.166219"
+"30",30,"EU Institutions","European Development Fund",19.72279918,"4199.336182"
+"31",31,"Finland","Finnish Government",145.182855776,"17.98839285"
+"32",32,"Finland","Ministry of Foreign Affairs",543.293925746,"863.605643"
+"33",33,"France","COOP DECENTRAL/MAE",1415.658625495,NA
+"34",34,"France","French Development Agency",353.181564815,"5007.763471"
+"35",35,"France","GOUV",1489.137553,NA
+"36",36,"France","Ministry of Economy, Finance and Industry",943.405455656,"547.1983634"
+"37",37,"Germany","Bundesministerium für Wirtschaftliche Zusammenarbeit und Entwicklung",4542.299374316,NA
+"38",38,"Germany","Federal Ministry for Economic Affairs and Energy",19.871086779,"6.8430229"
+"39",39,"Germany","Federal Ministry for the Env., Nature Conservation and Nuclear Safety",80.008426803,"317.8691882"
+"40",40,"Germany","Federal Ministry of Finance",2.650910098,"5.02097171"
+"41",41,"Germany","Federal Ministry of Food and Agriculture",18.08478839,"23.2402608"
+"42",42,"Germany","Federal Ministry of Health",25.479755877,"0.3599827"
+"43",43,"Germany","Federal Ministry of Justice and Consumer Protection",0.0364,"5.4969703"
+"44",44,"Germany","Federal Ministry of Labour and Social Affairs",17.48903872,"1.08797"
+"45",45,"Germany","Federal Ministry of the Interior",3.508144275,"19.15039512"
+"46",46,"Germany","Federal Ministry of Transport and Digital Infrastructure",0.214271868,"0.28030674"
+"47",47,"Germany","Foreign Office",172.685379434,"1383.10682"
+"48",48,"Greece","Ministry of Agricultural Development & Food",2.160119626,"0.60405364"
+"49",49,"Greece","Ministry of Citizen Protection",0.0244,"0.105895678"
+"50",50,"Greece","Ministry of Culture & Tourism",0.016217348,"0.44864"
+"51",51,"Greece","Ministry of Development, Competitiveness & Shipping",1.754214191,"0.0166155"
+"52",52,"Greece","Ministry of Education, Life Long Learning & Religions",0.00407,"11.59563296"
+"53",53,"Greece","Ministry of Finance",185.29945862,NA
+"54",54,"Greece","Ministry of Foreign Affairs",13.183690964,"3.951593568"
+"55",55,"Greece","Ministry of Health & Social Solidarity",2.331785123,"17.1065241"
+"56",56,"Greece","Ministry of National Defense",0.0184,"0.492205"
+"57",57,"Greece","Ministry of the Environment, Energy & Climate Change",0.427763384,"0.2530362"
+"58",58,"Greece","Ministry of the Interior",0.328518887,NA
+"59",59,"Greece","Miscellaneous",0.312451995,"7.276033887"
+"60",60,"Hungary","Ministry for National Economy",85.18986484,NA
+"61",61,"Hungary","Ministry of Agriculture",4.166003671,NA
+"62",62,"Hungary","Ministry of Human Capacities",1.569622501,NA
+"63",63,"Hungary","Ministry of Interior",0.136421527,NA
+"64",64,"Hungary","Ministry of Trade",24.768033095,NA
+"65",65,"Hungary","Miscellaneous",0.271900646,NA
+"66",66,"Iceland","ICRU",0.130162549,"1.285745"
+"67",67,"Iceland","Ministry of Foreign Affairs",5.926270473,"15.98756149"
+"68",68,"Ireland","Department of Agriculture, Food and the Marine",14.278972449,"1.8510951"
+"69",69,"Ireland","Department of Finance",34.0070138,NA
+"70",70,"Ireland","Department of Foreign Affairs",124.858258382,"513.5612162"
+"71",71,"Ireland","Miscellaneous",118.813576827,"7.9769676"
+"72",72,"Italy","Central administration",2512.009631727,"989.1389769"
+"73",73,"Italy","Direzione Generale per la Cooperazione allo Sviluppo",116.571918734,"365.5444964"
+"74",74,"Japan","Japanese International Co-operation Agency",0,"9026.413779"
+"75",75,"Japan","Ministry of Agriculture, Forestry and Fisheries",0.2288909,"27.5189352"
+"76",76,"Japan","Ministry of Foreign Affairs",899.835932114,"2755.511"
+"77",77,"Japan","Other Ministries",2571.456941643,"637.773685"
+"78",78,"Japan","Public Corporations",1.249291107,"2.66341659"
+"79",79,"Kazakhstan","Ministry of Foreign Affairs",6.249730843,NA
+"80",80,"Korea","Ministry of Foreign Affairs and Trade",67.787993176,"113.435438"
+"81",81,"Korea","Ministry of Strategy and Finance",315.43544628,"19.530131"
+"82",82,"Korea","Miscellaneous",57.672968312,"194.078442"
+"83",83,"Kuwait [KFAED]","Kuwait Fund for Arab Economic Development (KFAED)",47.636150607,NA
+"84",84,"Lithuania","Government of the Republic of Lithuania",30.77180063,NA
+"85",85,"Lithuania","Ministry of Agriculture",0.407354124,NA
+"86",86,"Lithuania","Ministry of Energy",0.0639,NA
+"87",87,"Lithuania","Ministry of Finance",1.081514509,NA
+"88",88,"Lithuania","Ministry of Foreign Affairs",5.901884184,NA
+"89",89,"Lithuania","Ministry of Health",0.253283707,NA
+"90",90,"Lithuania","Ministry of National Defense",0.00891,NA
+"91",91,"Lithuania","Ministry of Social Security and Labour",0.303001928,NA
+"92",92,"Lithuania","Ministry of the Interior",0.085,NA
+"93",93,"Lithuania","Ministry of Transport and Communications",0.02298,NA
+"94",94,"Luxembourg","Ministry of Foreign Affairs",122.120334827,"304.5438943"
+"95",95,"Netherlands","Ministry of Foreign Affairs (DGIS)",1531.930095081,"4180.104554"
+"96",96,"New Zealand","Ministry of Foreign Affairs and Trade",90.074824765,"389.8157323"
+"97",97,"New Zealand","Miscellaneous",4.322547581,"20.8741425"
+"98",98,"Norway","Ministry of Foreign Affairs",1242.510958796,"2908.857452"
+"99",99,"Norway","Norwegian Agency for Development Co-operation",29.901911208,"848.197092"
+"100",100,"Poland","Ministry of Culture and National Heritage",0.00111,"2.921231497"
+"101",101,"Poland","Ministry of Finance",285.435283116,"38.342044"
+"102",102,"Poland","Ministry of Foreign Affairs",69.524826029,"30.11630798"
+"103",103,"Poland","Ministry of Interior",0.476847474,NA
+"104",104,"Poland","Ministry of the Environment",2.665746533,"0.403672"
+"105",105,"Poland","Miscellaneous",7.755548982,"2.71450939"
+"106",106,"Portugal","Camões-Institute for Cooperation and Language",0.0658,NA
+"107",107,"Portugal","Portuguese Government",182.230856587,"259.4442334"
+"108",108,"Romania","Ministry of Agriculture and Regional Development",1.288134337,NA
+"109",109,"Romania","Ministry of Culture",0.806837295,NA
+"110",110,"Romania","Ministry of Environment and Climate Change",0.299074495,NA
+"111",111,"Romania","Ministry of Foreign Affairs",3.4475859,NA
+"112",112,"Romania","Ministry of Health",1.069605917,NA
+"113",113,"Romania","Ministry of Information Society",0.0445,NA
+"114",114,"Romania","Ministry of Internal Affairs",0.1120452,NA
+"115",115,"Romania","Ministry of Labour, Family, Social Protection and Elderly",0.561030339,NA
+"116",116,"Romania","Ministry of Public Finance",135.483851236,NA
+"117",117,"Slovak Republic","Ministry of Finance",62.835423348,NA
+"118",118,"Slovak Republic","Ministry of Foreign and European Affairs (MZVaEZ)",1.081805443,NA
+"119",119,"Slovak Republic","Ministry of Interior",0.0867,NA
+"120",120,"Slovak Republic","Other ministries",2.564134536,NA
+"121",121,"Slovak Republic","Slovak Agency for International Deve (SAMRS)",0.02,NA
+"122",122,"Slovenia","Ministry of Defence",0.074539527,"1.8574268"
+"123",123,"Slovenia","Ministry of Finance",30.230173475,NA
+"124",124,"Slovenia","Ministry of foreign affairs",9.462811361,"7.160688576"
+"125",125,"Slovenia","Miscellaneous",1.502554954,NA
+"126",126,"Spain","Ministry of Agriculture, Fisheries, and Food",0.263908044,"1.57651415"
+"127",127,"Spain","Ministry of Economy and Competitiveness",288.740153873,"3.300621694"
+"128",128,"Spain","Ministry of Education, Culture and Sports",0.198953308,"1.86893222"
+"129",129,"Spain","Ministry of Foreign Affairs and Co-operation",98.198223564,"99.97358878"
+"130",130,"Spain","Ministry of Industry and Energy",0.455523495,"0.381871998"
+"131",131,"Spain","Ministry of Public Administration",1024.39276,"0.22110593"
+"132",132,"Spain","Ministry of Public Works",0.165246335,"0.531924156"
+"133",133,"Sweden","Ministry of Foreign Affairs",1921.848197755,"1324.268781"
+"134",134,"Sweden","Swedish International Development Authority",43.044184284,"2936.426182"
+"135",135,"Switzerland","Federal Administration (various departments)",65.504241987,"568.3268806"
+"136",136,"Switzerland","Federal Department of Foreign Affairs",35.785850883,"124.0955225"
+"137",137,"Switzerland","State Secretariat for Economic Affairs",4.13296442,"477.3280391"
+"138",138,"Switzerland","Swiss Agency for Development and Co-operation",627.066732545,"1655.410561"
+"139",139,"United Arab Emirates","International Humanitarian City",3.250080498,"10.77179"
+"140",140,"United Arab Emirates","Ministry of International Cooperation and Development",6.728537494,NA
+"141",141,"United Arab Emirates","Other Government Entitites",119.713922385,"257.55209"
+"142",142,"United Kingdom","Department for Environment Food and Rural Affairs",16.242320657,"77.24404124"
+"143",143,"United Kingdom","Department for International Development",6495.308548459,"9809.236117"
+"144",144,"United Kingdom","Department for Work and Pensions",12.13759628,NA
+"145",145,"United Kingdom","Department of Energy and Climate Change",178.723342992,"125.0586536"
+"146",146,"United Kingdom","Department of Health",17.6537199,NA
+"147",147,"United Kingdom","Foreign & Commonwealth Office",66.50448176,"537.4224174"
+"148",148,"United Kingdom","Home Office",1.246654643,"221.9148"
+"149",149,"United Kingdom","Miscellaneous",745.813324009,"412.8921453"
+"150",150,"United States","Agency for International Development",1814.14602191,"17069.8156"
+"151",151,"United States","Department of Treasury",2645.751904505,"150.14505"
+"152",152,"United States","State Department",1043.210460281,"5276.64347"

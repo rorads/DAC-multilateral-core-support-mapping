@@ -6,7 +6,7 @@
 setwd('/Users/roryscott/Organisation/Projects/Coverage/dac_multilateral_core_support_by_agency/')
 
 # Uncomment if running solo:
-source('Dac_Multilateral_Retrieval.r')
+#source('Dac_Multilateral_Retrieval.r')
 
 # Set the year you want
 year <- 2014
