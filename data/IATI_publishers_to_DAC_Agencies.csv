@@ -1,0 +1,375 @@
+publisher_name,donor_code,donornameE,agency_code,crs_agency_name,loc_agency_acronym,agencynameE
+NA,1012,Adaptation Fund,1,NULL,NULL,NULL
+African Development Bank,913,African Development Bank [AfDB],1,AfDB Ordinary Capital,NULL,NULL
+African Development Bank,913,African Development Bank [AfDB],11,NULL,NULL,NULL
+African Development Bank,913,African Development Bank [AfDB],12,NULL,NULL,NULL
+African Development Bank,913,African Development Bank [AfDB],14,NULL,NULL,NULL
+African Development Bank,913,African Development Bank [AfDB],15,NULL,NULL,NULL
+African Development Bank,913,African Development Bank [AfDB],16,NULL,NULL,NULL
+African Development Bank,914,African Development Fund [AfDF],1,AfDF,NULL,NULL
+African Development Bank,914,African Development Fund [AfDF],2,NTF,NULL,NULL
+African Development Bank,914,African Development Fund [AfDF],13,NULL,NULL,NULL
+NA,953,Arab Bank for Economic Development in Africa [BADEA],1,BADEA,NULL,NULL
+NA,921,Arab Fund [AFESD],1,AFESD,NULL,NULL
+NA,916,AsDB Special Funds,1,AsDF,NULL,NULL
+NA,916,AsDB Special Funds,2,APDRF,NULL,NULL
+NA,916,AsDB Special Funds,3,CCF,NULL,NULL
+NA,916,AsDB Special Funds,11,NULL,NULL,NULL
+NA,916,AsDB Special Funds,12,RCIFPF,NULL,NULL
+NA,916,AsDB Special Funds,13,FSDPSF,NULL,NULL
+NA,915,Asian Development Bank [AsDB],1,AsDB,NULL,NULL
+NA,801,Australia,2,AG,AG,Attorney-General
+Australia - Department of Foreign Affairs and Trade,801,Australia,5,Aus Gov,Aus Gov,Australian government
+NA,801,Australia,99,MISC,MISC,Miscellaneous
+NA,1,Austria,1,BMF,BMF,Federal Ministry of Finance
+NA,1,Austria,2,MIN,MIN,Various ministries
+NA,1,Austria,5,BMeiA,BMeiA,Federal Ministry for European and International Affairs
+NA,1,Austria,6,Reg,Reg,"Provincial governments, local communities"
+NA,1,Austria,7,BKA,BKA,Federal Chancellery
+NA,1,Austria,8,ADA,ADA,Austrian Development Agency
+NA,1,Austria,10,BMLFUW,BMLFUW,Ministry for Agriculture and Environment
+NA,1,Austria,11,BMLVS,BMLV,Ministry of Defense
+NA,1,Austria,12,INT,BMI,Ministry of Interior
+NA,1,Austria,13,OeEB,OeEB,Austrian Development Bank
+NA,1,Austria,15,BMWFW,BMWF,Ministry for Science and Research
+NA,1,Austria,16,BMBF,NULL,NULL
+NA,1,Austria,99,MISC,MISC,Miscellaneous
+Belgian Development Cooperation,2,Belgium,10,DGCD,DGCD,Directorate General for Co-operation and Development
+NA,2,Belgium,20,SPAE,SPAE,Official Federal Service of Foreign Affaires (excl. DGCD)
+NA,2,Belgium,22,BIO,NULL,NULL
+NA,2,Belgium,30,SPFF,SPFF,Official Federal Service of Finance
+NA,2,Belgium,31,OND,OND,Ducroire National Office
+NA,2,Belgium,39,ASPF,ASPF,Other Official Federal Services
+NA,2,Belgium,60,LOC,LOC,provinces/municipalities
+NA,2,Belgium,70,MPRF,MPRF,Flanders Official Regional Ministries
+NA,2,Belgium,80,MPRW,MPRW,Walloon Official Regional Ministries
+NA,2,Belgium,94,MPRG,MPRG,German speaking Official Regional Ministries
+Bill & Melinda Gates Foundation,1601,Bill & Melinda Gates Foundation,1,BMGF,Bill & Melinda Gates Foundation,NULL
+Canada - International Development Research Center / Centre de recherches pour le dí©veloppement international,301,Canada,2,IDRC,IDRC,International Development Research Centre
+Canada - Global Affairs Canada / Affaires mondiales Canada,301,Canada,3,DFATD,DFATD,"Department of Foreign Affairs, Trade and Development"
+Canada Department of Finance,301,Canada,4,FIN,FIN,Department of Finance Canada
+NA,301,Canada,8,RCMP,RCMP,Royal Canadian Mounted Police of Canada
+NA,301,Canada,9,GOV,GOV,Provincial Governments and municipalities
+NA,301,Canada,31,EDC,EDC,Export Development Canada
+NA,301,Canada,99,MISC,MISC,Miscellaneous
+Climate Investment Funds,1011,Climate Investment Funds [CIF],10,CTF,NULL,NULL
+Climate Investment Funds,1011,Climate Investment Funds [CIF],20,SCF,NULL,NULL
+NA,1011,Climate Investment Funds [CIF],21,SCF - FIP,NULL,NULL
+NA,1011,Climate Investment Funds [CIF],22,SCF - PPCR,NULL,NULL
+NA,1011,Climate Investment Funds [CIF],23,SCF - SREP,NULL,NULL
+NA,1013,Council of Europe Development Bank [CEB],1,NULL,NULL,NULL
+NA,68,Czech Republic,1,CZDA,CZDA,Czech Development Agency
+NA,68,Czech Republic,2,MFA,MFA,Ministry of Foreign Affairs
+NA,68,Czech Republic,3,FIN,MOF,Ministry of Finance
+NA,68,Czech Republic,4,Mí«_MT,MEYS,"Miinistry of Education, Youth, Sports"
+NA,68,Czech Republic,5,INT,MOI,Ministry of the Interior
+NA,68,Czech Republic,7,DEF,MD,Ministry of Defence
+NA,68,Czech Republic,8,MoH,MH,Ministry of Health
+NA,68,Czech Republic,9,MIT,MIT,Ministry of Industry and Trade
+NA,68,Czech Republic,10,CNB,CNB,Czech National Bank
+NA,68,Czech Republic,11,JUSTICE,MJ,Ministry of Justice
+NA,68,Czech Republic,13,NULL,Universities,Universities
+NA,68,Czech Republic,14,GOV,Regional Governments and Municipalities,Regional Governments and Municipalities
+NA,68,Czech Republic,15,ENV,MOE,Ministry of Environment
+NA,68,Czech Republic,16,Síë_JB,SUJB,State Office for Nuclear Saftey
+NA,68,Czech Republic,19,AGRI,NULL,NULL
+Denmark - Danida - Danish Ministry of Foreigh Affairs,3,Denmark,1,MFA,MFA,Ministry of Foreign Affairs
+NA,3,Denmark,3,IFU,NULL,NULL
+NA,3,Denmark,4,NULL,NULL,NULL
+NA,3,Denmark,99,MISC,MISC,Miscellaneous
+NA,82,Estonia,1,MFA,NULL,NULL
+NA,82,Estonia,2,NULL,NULL,NULL
+NA,82,Estonia,3,NULL,NULL,NULL
+NA,918,EU Institutions,1,CEC,CEC,Commission of the European Communities
+NA,918,EU Institutions,2,EDF,EDF,European Development Fund
+European Investment Bank,918,EU Institutions,3,EIB,EIB,European Investment Bank
+NA,990,European Bank for Reconstruction and Development [EBRD],1,EBRD,NULL,NULL
+NA,18,Finland,1,FG,FG,Finnish Government
+NA,18,Finland,2,FF,FF,FinnFund
+Finland - Ministry of Foreign Affairs,18,Finland,3,MFA,MFA,Ministry of Foreign Affairs
+France - Ministry of Foreign Affairs and International Development,4,France,3,AFD,AFD,French Development Agency
+NA,4,France,8,COOP DECENTRAL,COOP DECENTRALISEE,COOP DECENTRALISED
+NA,4,France,10,MINEFI,MINEFI,"Ministry of Economy, Finance and Industry"
+NA,4,France,12,INT,IntíëŒ©rieur,Ministry of Interior
+NA,4,France,13,AGRI,AGRI,Ministry of Agriculture
+NA,4,France,14,DEF,DEF,Ministry of Defense
+NA,4,France,15,InterMin,INTER,Inter-ministerial
+NA,4,France,17,MEN,MESR,Ministry of Higher education and Research
+NA,4,France,22,Proparco,NULL,NULL
+NA,4,France,30,MIN/EQUIPEMENT,NULL,NULL
+NA,4,France,37,MIN/TRAVAIL,MIN/TRAVAIL,MIN/TRAVAIL
+France - Ministry of Foreign Affairs and International Development,4,France,99,MISC,MISC,Miscellaneous
+Germany - Ministry for Economic Cooperation and Development,5,Germany,1,BMZ,BMZ,Bundesministerium Wirtschaftliche Zusammenarbeit und Entwicklung
+Germany - Ministry for Economic Cooperation and Development,5,Germany,2,KFW,KFW,Kreditanstalt Wiederaufbau
+NA,5,Germany,4,DEG,DEG,German Investment and Development Company
+NA,5,Germany,5,BMF,BMF,Federal Ministry of Finance
+NA,5,Germany,7,F O,F O,Foreign Office
+NA,5,Germany,9,BMU,BMU,"Federal Ministry for the Env., Nature Conservation and Nuclear Safety"
+NA,5,Germany,12,L G,L G,Federal States and Local Governments
+NA,5,Germany,34,Euler Hermes,Euler Hermes,Euler Hermes Kreditversicherungs-AG
+NA,5,Germany,60,INT,BMI,Federal Ministry of the Interior
+NA,5,Germany,61,BMVJ,BMVJ,Federal Ministry of Justice and Consumer Protection
+NA,5,Germany,62,BMWi,BMWi,Federal Ministry for Economic Affairs and Energy
+NA,5,Germany,63,BMEL,BMEL,Federal Ministry of Food and Agriculture
+NA,5,Germany,64,BMVg,BMVg,Federal Ministry of Defence
+NA,5,Germany,65,BMFSFJ,BMFSFJ,"Federal Ministry of Family Affairs, Senior Citizens, Women and Youth"
+NA,5,Germany,66,BMG,BMG,Federal Ministry of Health
+NA,5,Germany,67,BMVI,BMVI,Federal Ministry of Transport and Digital Infrastructure
+NA,5,Germany,68,BMBF,BMBF,Federal Ministry of Education and Research
+NA,5,Germany,69,BKM,BKM,Federal Government Commissioner for Culture and the Media
+NA,5,Germany,70,Bundestag,Bundestag,German Bundestag
+NA,5,Germany,71,BMAS,BMAS,Federal Ministry of Labour and Social Affairs
+NA,5,Germany,80,Schleswig-Holstein,Schleswig-Holstein,Federal State of Schleswig-Holstein
+NA,5,Germany,81,Hamburg,Hamburg,City State of Hamburg
+NA,5,Germany,82,Niedersachsen,Niedersachsen,Federal State of Lower-Saxony
+NA,5,Germany,83,Bremen,Bremen,City State of Bremen
+NA,5,Germany,84,Nordrhein-Westfalen,Nordrhein-Westfalen,Federal State of North Rhine-Westphalia
+NA,5,Germany,85,Hessen,Hessen,Federal State of Hesse
+NA,5,Germany,86,Rheinland-Pfalz,Rheinland-Pfalz,Federal State of Rhineland-Palatinate
+NA,5,Germany,87,Badentemberg,Badenttemberg,Federal State of Badenemberg
+NA,5,Germany,88,Bayern,Bayern,Federal State of Bavaria
+NA,5,Germany,89,Saarland,Saarland,Federal State of Saarland
+NA,5,Germany,90,Berlin,Berlin,City State of Berlin
+NA,5,Germany,91,Brandenburg,Brandenburg,Federal State of Brandenburg
+NA,5,Germany,92,Mecklenburg-Vorpommern,Mecklenburg-Vorpommern,Federal State of Mecklenburg-West Pomerania
+NA,5,Germany,93,Sachsen-Anhalt,Sachsen-Anhalt,Federal State of Saxony-Anhalt
+NA,5,Germany,94,Sachsen,Sachsen,Federal State of Saxony
+NA,5,Germany,95,Thingen,Thingen,Federal State of Thuringia
+GAVI Alliance,1311,Global Alliance for Vaccines and Immunization [GAVI],1,GAVI,NULL,NULL
+NA,811,Global Environment Facility [GEF],1,GEF,NULL,NULL
+NA,811,Global Environment Facility [GEF],11,NULL,NULL,NULL
+NA,811,Global Environment Facility [GEF],12,LDCF,NULL,NULL
+NA,811,Global Environment Facility [GEF],13,SCCF,NULL,NULL
+NA,1312,Global Fund,1,Global Fund,NULL,NULL
+NA,1313,Global Green Growth Institute [GGGI],1,NULL,NULL,NULL
+NA,40,Greece,3,MFA,MFA,Ministry of Foreign Affairs
+NA,40,Greece,4,MND,MND,Ministry of National Defense
+NA,40,Greece,5,MDCS,MDCS,"Ministry of Development, Competitiveness & Shipping"
+NA,40,Greece,6,MEECC,MEECC,"Ministry of the Environment, Energy & Climate Change"
+NA,40,Greece,7,MELLLR,MELLLR,"Ministry of Education, Life Long Learning & Religions"
+NA,40,Greece,9,MESS,MESS,Ministry of Employment & Social Security
+NA,40,Greece,10,MHSS,MHSS,Ministry of Health & Social Solidarity
+NA,40,Greece,11,MADF,MADF,Ministry of Agricultural Development & Food
+NA,40,Greece,13,MCP,MCP,Ministry of Citizen Protection
+NA,40,Greece,14,MCT,MCT,Ministry of Culture & Tourism
+NA,40,Greece,99,MISC,MISC,Miscellaneous
+NA,75,Hungary,1,MNE,NULL,NULL
+NA,75,Hungary,2,MinTrade,NULL,NULL
+NA,75,Hungary,3,BIN,NULL,NULL
+NA,75,Hungary,4,INT,NULL,NULL
+NA,75,Hungary,5,MCH,NULL,NULL
+NA,75,Hungary,6,DEF,NULL,NULL
+NA,75,Hungary,7,AGRI,NULL,NULL
+NA,75,Hungary,21,NULL,NULL,NULL
+NA,75,Hungary,22,EXIM,NULL,NULL
+NA,75,Hungary,99,MISC,NULL,NULL
+NA,20,Iceland,1,MFA,MFA,Ministry of Foreign Affairs
+NA,20,Iceland,2,ICEIDA,ICEIDA,ICEIDA
+NA,20,Iceland,3,ICRU,ICRU,ICRU
+NA,912,IDB Special Fund,1,FSO,NULL,NULL
+NA,912,IDB Special Fund,3,FSO-ORC,NULL,NULL
+NA,912,IDB Special Fund,4,ORC,NULL,NULL
+NA,912,IDB Special Fund,5,MIF,NULL,NULL
+NA,912,IDB Special Fund,6,GRF,NULL,NULL
+NA,988,IFAD,1,IFAD,NULL,NULL
+NA,958,IMF (Concessional Trust Funds),1,NULL,NULL,NULL
+Inter-American Development Bank,909,Inter-American Development Bank [IDB],1,ORC,NULL,NULL
+Inter-American Development Bank,909,Inter-American Development Bank [IDB],5,MIF,NULL,NULL
+NA,901,International Bank for Reconstruction and Development [IBRD],1,IBRD,NULL,NULL
+NA,905,International Development Association [IDA],1,IDA,NULL,NULL
+NA,903,International Finance Corporation [IFC],1,IFC,NULL,NULL
+Ireland - Department of Foreign Affairs and Trade,21,Ireland,1,DFA,DFA,Department of Foreign Affairs
+NA,21,Ireland,3,DAFM,DAFM,"Department of Agriculture, Food and the Marine"
+NA,21,Ireland,99,MISC,MISC,Miscellaneous
+NA,976,Islamic Development Bank [IsDB],1,IsDB,NULL,NULL
+NA,6,Italy,4,DGCS,DGCS,Direzione Generale per la Cooperazione allo Sviluppo
+NA,6,Italy,7,CA,CA,Central administration
+NA,6,Italy,8,LA,LA,Local administration
+NA,6,Italy,9,Art.,Art.,Artigiancassa
+NA,6,Italy,10,NULL,NULL,NULL
+NA,6,Italy,11,NULL,NULL,NULL
+NA,701,Japan,1,MAFF,MAFF,"Ministry of Agriculture, Forestry and Fisheries"
+Japan - Japan International Cooperation Agency (JICA),701,Japan,2,MOFA,MOFA,Ministry of Foreign Affairs
+Japan - Japan International Cooperation Agency (JICA),701,Japan,8,JICA,JICA,Japanese International Co-operation Agency
+NA,701,Japan,10,JODC,JODC,Japan Overseas Development Co-operation
+NA,701,Japan,11,JBIC,JBIC,Japan Bank for International Co-operation
+NA,701,Japan,12,Oth. MIN,Oth. MIN,Other Ministries
+NA,701,Japan,13,PC,PC,Public Corporations
+NA,701,Japan,14,PRF,PRF,Prefectures
+NA,701,Japan,15,ODC,ODC,Ordinance-designed Cities
+NA,613,Kazakhstan,1,MFA,NULL,NULL
+NA,613,Kazakhstan,2,GOV,NULL,NULL
+NA,613,Kazakhstan,3,EDUC,NULL,NULL
+NA,613,Kazakhstan,4,NULL,NULL,NULL
+NA,742,Korea,1,MOSF,MOSF,Ministry of Strategy and Finance
+NA,742,Korea,2,KEXIM,KEXIM,Export-Import Bank of Korea
+NA,742,Korea,3,MOFAT,MOFAT,Ministry of Foreign Affairs and Trade
+NA,742,Korea,4,KOICA,KOICA,Korea International Cooperation Agency
+NA,742,Korea,99,MISC,MISC,Miscellaneous
+NA,552,Kuwait [KFAED],1,KFAED,Kuwait Fund for Arab Economic Development (KFAED),NULL
+NA,552,Kuwait [KFAED],2,NULL,Government Grants administered by KFAED,NULL
+"Lithuania, Ministry of Foreign Affairs",84,Lithuania,1,GOV,NULL,NULL
+"Lithuania, Ministry of Foreign Affairs",84,Lithuania,2,MFA,NULL,NULL
+"Lithuania, Ministry of Foreign Affairs",84,Lithuania,3,DEF,NULL,NULL
+"Lithuania, Ministry of Foreign Affairs",84,Lithuania,4,ENV,NULL,NULL
+"Lithuania, Ministry of Foreign Affairs",84,Lithuania,5,FIN,NULL,NULL
+"Lithuania, Ministry of Foreign Affairs",84,Lithuania,6,ECON,NULL,NULL
+"Lithuania, Ministry of Foreign Affairs",84,Lithuania,7,EDUC,NULL,NULL
+"Lithuania, Ministry of Foreign Affairs",84,Lithuania,8,NULL,NULL,NULL
+"Lithuania, Ministry of Foreign Affairs",84,Lithuania,10,MoH,NULL,NULL
+"Lithuania, Ministry of Foreign Affairs",84,Lithuania,11,AGRI,NULL,NULL
+"Lithuania, Ministry of Foreign Affairs",84,Lithuania,12,INT,NULL,NULL
+"Lithuania, Ministry of Foreign Affairs",84,Lithuania,13,NULL,NULL,NULL
+"Lithuania, Ministry of Foreign Affairs",84,Lithuania,20,NULL,NULL,NULL
+"Lithuania, Ministry of Foreign Affairs",84,Lithuania,30,NULL,NULL,NULL
+NA,22,Luxembourg,2,MFA,MFA,Ministry of Foreign Affairs
+Netherlands - Ministry of Foreign Affairs,7,Netherlands,1,MFA,MFA,Ministry of Foreign Affairs (DGIS)
+NA,7,Netherlands,33,NCM,Atradius,Atradius
+NA,820,New Zealand,1,NZG,NZG,Ministry of Foreign Affairs and Trade
+NA,820,New Zealand,99,MISC,MISC,Miscellaneous
+NA,104,Nordic Development Fund [NDF],1,NDF,NULL,NULL
+Norad - Norwegian Agency for Development Cooperation,8,Norway,1,NORAD,NORAD,Norwegian Agency for Development Co-operation
+Norad - Norwegian Agency for Development Cooperation,8,Norway,4,MFA,MFA,Ministry of Foreign Affairs
+NA,8,Norway,7,IN,IN,Innovation Norway
+NA,8,Norway,8,NORFUND,NORFUND,NORFUND
+NA,8,Norway,9,FK,FK,FK Norway
+NA,8,Norway,10,OAG,OAG,Office of the Auditor General
+NA,8,Norway,11,DEF,DEF,Ministry of Defence
+NA,8,Norway,12,ENV,ENV,Ministry of Climate and Environment
+NA,8,Norway,99,MISC,MISC,Miscellaneous
+The OPEC Fund for International Development (OFID),951,OPEC Fund for International Development [OFID],1,OFID,NULL,NULL
+NA,978,OSCE,1,OSCE,NULL,NULL
+NA,76,Poland,1,MFA,MFA,Ministry of Foreign Affairs
+NA,76,Poland,2,MSHE,MSHE,Ministry of Science and Higher Education
+NA,76,Poland,3,INT,MI,Ministry of the Interior
+NA,76,Poland,4,MCNH,MCNH,Ministry of Culture and National Heritage
+NA,76,Poland,5,FIN,MF,Ministry of Finance
+NA,76,Poland,6,ENV,ME,Ministry of the Environment
+NA,76,Poland,99,MISC,MISC,Miscellaneous
+NA,9,Portugal,1,GP,GP,Portuguese Government
+NA,9,Portugal,2,CICL,IPAD,Institute for Portuguese Development Aid
+NA,9,Portugal,3,MUNIC,MUNIC,Municipalities
+NA,9,Portugal,4,SOFID Society for Development Financ,SOFID Society for Development Financing,SOFID Sociedade para o Financiamento do Desenvolvimento
+NA,9,Portugal,99,MISC,MISC,Miscellaneous
+Romania Ministry of Foreign Affairs,77,Romania,1,MFA,NULL,NULL
+Romania Ministry of Foreign Affairs,77,Romania,3,NULL,NULL,NULL
+Romania Ministry of Foreign Affairs,77,Romania,4,DEF,NULL,NULL
+Romania Ministry of Foreign Affairs,77,Romania,6,NULL,NULL,NULL
+Romania Ministry of Foreign Affairs,77,Romania,12,NULL,NULL,NULL
+Romania Ministry of Foreign Affairs,77,Romania,13,NULL,NULL,NULL
+Romania Ministry of Foreign Affairs,77,Romania,14,JUSTICE,NULL,NULL
+Romania Ministry of Foreign Affairs,77,Romania,16,NULL,NULL,NULL
+Romania Ministry of Foreign Affairs,77,Romania,18,NULL,NULL,NULL
+Romania Ministry of Foreign Affairs,77,Romania,20,INT,NULL,NULL
+Romania Ministry of Foreign Affairs,77,Romania,21,AGRI,NULL,NULL
+Romania Ministry of Foreign Affairs,77,Romania,22,MoH,NULL,NULL
+Romania Ministry of Foreign Affairs,77,Romania,26,NULL,NULL,NULL
+Romania Ministry of Foreign Affairs,77,Romania,28,EDUC,NULL,NULL
+Romania Ministry of Foreign Affairs,77,Romania,29,NULL,NULL,NULL
+Romania Ministry of Foreign Affairs,77,Romania,31,GOV,NULL,NULL
+NA,69,Slovak Republic,1,MZVaEZ,NULL,NULL
+NA,69,Slovak Republic,2,SAMRS,NULL,NULL
+NA,69,Slovak Republic,3,FIN,NULL,NULL
+NA,69,Slovak Republic,4,MSVVS,NULL,NULL
+NA,69,Slovak Republic,5,INT,NULL,NULL
+NA,69,Slovak Republic,18,NULL,NULL,NULL
+NA,61,Slovenia,1,FIN,FIN,Ministry of finance
+NA,61,Slovenia,2,MFA,MFA,Ministry of foreign affairs
+NA,61,Slovenia,3,INT,INT,Ministry of interior
+NA,61,Slovenia,4,DEF,DEF,Ministry of Defence
+NA,61,Slovenia,99,MISC,MISC,Misc.
+NA,50,Spain,4,AGR,AGR,"Ministry of Agriculture, Fisheries, and Food"
+Spain - Ministry of Foreign Affairs and Cooperation,50,Spain,5,MFA,MFA,Ministry of Foreign Affairs and Co-operation
+Spain - Ministry of Foreign Affairs and Cooperation,50,Spain,6,ECON,ECON,Ministry of Economy and Competitiveness
+Spain - Ministry of Foreign Affairs and Cooperation,50,Spain,7,EDUC,EDUC,"Ministry of Education, Culture and Sports"
+Spain - Ministry of Foreign Affairs and Cooperation,50,Spain,8,MPW,MPW,Ministry of Public Works
+Spain - Ministry of Foreign Affairs and Cooperation,50,Spain,9,MIE,MIE,Ministry of Industry and Energy
+Spain - Ministry of Foreign Affairs and Cooperation,50,Spain,11,MOH,MOH,Ministry of Health
+Spain - Ministry of Foreign Affairs and Cooperation,50,Spain,12,EMP,EMP,Ministry of Labour and Social Affairs
+Spain - Ministry of Foreign Affairs and Cooperation,50,Spain,13,INT,INT,Ministry of Interior
+Spain - Ministry of Foreign Affairs and Cooperation,50,Spain,14,MPA,MPA,Ministry of Public Administration
+Spain - Ministry of Foreign Affairs and Cooperation,50,Spain,15,AG,AG,Autonomous Governments
+Spain - Ministry of Foreign Affairs and Cooperation,50,Spain,16,MUNIC,MUNIC,Municipalities
+Spain - Ministry of Foreign Affairs and Cooperation,50,Spain,19,DEF,DEF,Ministry of Defence
+Spain - Ministry of Foreign Affairs and Cooperation,50,Spain,20,UNIV,UNIV,Public Universities
+Spain - Ministry of Foreign Affairs and Cooperation,50,Spain,21,AECID,AECID,Spanish Agency for International Development Co-operation
+Spain - Ministry of Foreign Affairs and Cooperation,50,Spain,22,NULL,Oth. Min.,Others ministries
+Sweden (Sida),10,Sweden,2,MFA,MFA,Ministry of Foreign Affairs
+Sweden (Sida),10,Sweden,6,Sida,Sida,Swedish International Development Authority
+NA,10,Sweden,11,ENV,NULL,NULL
+NA,10,Sweden,20,NULL,NULL,NULL
+NA,10,Sweden,21,NULL,NULL,NULL
+NA,10,Sweden,22,NULL,NULL,NULL
+NA,10,Sweden,23,NULL,NULL,NULL
+NA,10,Sweden,24,NULL,NULL,NULL
+NA,10,Sweden,25,NULL,NULL,NULL
+NA,10,Sweden,27,NULL,NULL,NULL
+NA,10,Sweden,28,NULL,NULL,NULL
+NA,10,Sweden,29,NULL,NULL,NULL
+NA,10,Sweden,30,NULL,NULL,NULL
+NA,10,Sweden,31,NULL,NULL,NULL
+NA,10,Sweden,32,NULL,NULL,NULL
+NA,10,Sweden,36,SwedFund,NULL,NULL
+NA,10,Sweden,37,NULL,NULL,NULL
+NA,10,Sweden,38,NULL,NULL,NULL
+NA,11,Switzerland,1,FA,FA,Federal Administration (various departments)
+Switzerland - Swiss Agency for Development and Cooperation (SDC),11,Switzerland,4,SDC,SDC,Swiss Agency for Development and Co-operation
+NA,11,Switzerland,5,Seco,Seco,State Secretariat for Economic Affairs
+NA,11,Switzerland,6,DFA,DFA,Federal Department of Foreign Affairs
+NA,11,Switzerland,11,MUNIC,MUNIC,Municipalities
+NA,923,UN Peacebuilding Fund [UNPBF],1,UNPBF,NULL,NULL
+NA,971,UNAIDS,1,UNAIDS,NULL,NULL
+NA,959,UNDP,1,UNDP,NULL,NULL
+NA,948,UNECE,1,UNECE,NULL,NULL
+NA,974,UNFPA,1,UNFPA,NULL,NULL
+NA,967,UNHCR,1,UNHCR,NULL,NULL
+NA,963,UNICEF,1,UNICEF,NULL,NULL
+NA,576,United Arab Emirates,2,FIN,DOF,Abu Dhabi Department of Finance
+NA,576,United Arab Emirates,3,ADFD,ADFD,Abu Dhabi Fund for Development
+NA,576,United Arab Emirates,7,IHC,IHC,International Humanitarian City
+NA,576,United Arab Emirates,8,MBZ,NULL,NULL
+NA,576,United Arab Emirates,9,MICAD,NULL,NULL
+NA,576,United Arab Emirates,17,KBZ,KZF,Khalifa Bin Zayed Al Nahyan Foundation
+NA,576,United Arab Emirates,18,MBR,MRHC,Mohammed Bin Rashid Al Maktoum Humanitarian and Charity Establishment
+NA,576,United Arab Emirates,19,ZBS,ZCHF,Zayed Bin Sultan Al Nahyan Charitable and Humanitarian Foundation
+NA,576,United Arab Emirates,22,RCA,RCA,UAE Red Crescent Authority
+NA,576,United Arab Emirates,25,GOV,OTHER,Other Government Entitites
+NA,576,United Arab Emirates,99,MISC,MISC,Miscellaneous
+UK - Department for International Development (DFID),12,United Kingdom,1,DFID,DFID,Department for International Development
+CDC Group plc,12,United Kingdom,2,CDC,CDC,CDC Capital Partners PLC
+UK - Foreign & Commonwealth Office,12,United Kingdom,3,FCO,FCO,Foreign & Commonwealth Office
+UK - Department of Energy and Climate Change,12,United Kingdom,4,DECC,DECC,Department of Energy and Climate Change
+UK - Department for International Development (DFID),12,United Kingdom,5,ECGD,ECGD,Export Credit Guarantee Department
+UK - Home Office,12,United Kingdom,6,HO,HO,Home Office
+"UK - Department for Environment, Food and Rural Affairs",12,United Kingdom,7,DEFRA,DEFRA,Department for Environment Food and Rural Affairs
+UK - Ministry of Defence,12,United Kingdom,8,MOD,MOD,Ministry of Defence
+NA,12,United Kingdom,11,BIS,BIS,"Department for Business, Innovation and Skills"
+UK - Scottish Government,12,United Kingdom,21,SG,SG,Scottish Government
+UK - Welsh Government's Wales for Africa Programme,12,United Kingdom,22,WAG,WAG,Welsh Assembly Government
+NA,12,United Kingdom,99,MISC,MISC,Miscellaneous
+United States,302,United States,1,AID,AID,Agency for International Development
+United States,302,United States,2,AGR,AGR,Department of Agriculture
+United States,302,United States,6,DTRE,DTRE,Department of Treasury
+United States,302,United States,7,DOD,DOD,Department of Defense
+NA,302,United States,9,INT,INTERIOR,Department of the Interior
+United States,302,United States,10,PEACE,PEACE,Peace Corps
+United States,302,United States,11,STATE,STATE,State Department
+NA,302,United States,12,TDA,TDA,Trade and Development Agency
+United States,302,United States,13,ADF,ADF,African Development Foundation
+United States,302,United States,14,HHS,HHS,Department of Health and Human Services
+NA,302,United States,15,JUSTICE,JUSTICE,Department of Justice
+NA,302,United States,16,COMMERCE,COMMERCE,Department of Commerce
+NA,302,United States,17,LABOR,LABOR,Department of Labor
+United States,302,United States,18,MCC,MCC,Millennium Challenge Corporation
+NA,302,United States,19,DHS,DHS,Department of Homeland Security
+NA,302,United States,20,DOE,DOE,Department of Energy
+United States,302,United States,21,IADF,IADF,Inter-American Development Foundation
+NA,302,United States,22,OPIC,OPIC,Overseas Private Investment Corporation
+NA,302,United States,23,FTC,FTC,Federal Trade Commission
+NA,302,United States,26,DOT,DOT,Department of Transportation
+NA,302,United States,31,EXIM,EXIM,Export Import Bank
+NA,302,United States,32,EPA,EPA,Environmental Protection Agency
+NA,302,United States,99,MISC,MISC,Miscellaneous
+NA,964,UNRWA,1,UNRWA,NULL,NULL
+NA,966,WFP,1,WFP,NULL,NULL
+NA,928,World Health Organisation [WHO],1,WHO,NULL,NULL

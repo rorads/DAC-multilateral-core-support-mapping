@@ -24,3 +24,5 @@ new_output_by_country <- summarise(group_by(B02_by_year, donornameE), "usd_exten
 setwd('/Users/roryscott/Organisation/Projects/Coverage/dac_multilateral_core_support_by_agency/output/')
 write.csv(new_output_by_agency, file = "simplified_filtered_by_agency.csv")
 write.csv(new_output_by_country, file = "simplified_filtered_by_country.csv")
+
+remove(B02_by_year, new_output_by_country, new_output_by_agency)

@@ -14,6 +14,8 @@ mums = read.csv("MultiSystem entire dataset.csv")
 # Extract all of the 'Multilateral Core' records
 B02 = subset(mums, Aid_T == "B02")
 
+remove(mums)
+
 #### Diagnostics for 2014 ####
 #
 # # Sweden table + spend
