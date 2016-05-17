@@ -21,8 +21,9 @@ final <- summed %>% summarise(total = sum(total))
 # select output folder
 setwd('/Users/roryscott/Organisation/Projects/Coverage/dac_multilateral_core_support_by_agency/output')
 
+# No missing B02
+write.csv(final, file = "iati_reference_spends.csv")
+
 # cleanup - commend out for variable debug
 remove(cleaned, corrected_iati_reverse_integrated, final, summed, trimmed)
 
-# No missing B02
-write.csv(final, file = "iati_reference_spends.csv")
