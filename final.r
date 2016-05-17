@@ -14,6 +14,8 @@ trimmed$usd_extended_defl <- as.numeric(trimmed$usd_extended_defl)
 
 summed <- trimmed %>% mutate(total = total_usd_disbursement + usd_extended_defl)
 
+detailed_final <- summed %>% summarise(disbursement = sum(total_usd_disbursement), extended = sum(usd_extended_defl), total = sum(total))
+
 final <- summed %>% summarise(total = sum(total))
 
 # select output folder

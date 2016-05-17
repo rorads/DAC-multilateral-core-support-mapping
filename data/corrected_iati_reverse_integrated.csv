@@ -45,7 +45,7 @@ NA,2,Belgium,70,MPRF,MPRF,Flanders Official Regional Ministries,72.66898625,3.21
 NA,2,Belgium,80,MPRW,MPRW,Walloon Official Regional Ministries,27.6660309,4.926739639,non-iati
 NA,2,Belgium,94,MPRG,MPRG,German speaking Official Regional Ministries,0.2077614,NA,non-iati
 Bill & Melinda Gates Foundation,1601,Bill & Melinda Gates Foundation,1,BMGF,Bill & Melinda Gates Foundation,NULL,2667.860798,NA,checked
-Canada - International Development Research Center / Centre de recherches pour le dÌ©veloppement international,301,Canada,2,IDRC,IDRC,International Development Research Centre,193.4038145,NA,checked
+Canada - International Development Research Center / Centre de recherches pour le dí©veloppement international,301,Canada,2,IDRC,IDRC,International Development Research Centre,193.4038145,NA,checked
 Canada - Global Affairs Canada / Affaires mondiales Canada,301,Canada,3,DFATD,DFATD,"Department of Foreign Affairs, Trade and Development",2495.862096,517.5801815,multilateral_added
 Canada Department of Finance,301,Canada,4,FIN,FIN,Department of Finance Canada,190.09723,469.8968177,checked
 NA,301,Canada,8,RCMP,RCMP,Royal Canadian Mounted Police of Canada,23.5692595,NA,non-iati
@@ -61,7 +61,7 @@ NA,1013,Council of Europe Development Bank [CEB],1,NULL,NULL,NULL,362.5608386,NA
 NA,68,Czech Republic,1,CZDA,CZDA,Czech Development Agency,20.94932529,NA,non-iati
 NA,68,Czech Republic,2,MFA,MFA,Ministry of Foreign Affairs,18.51959589,9.606319808,non-iati
 NA,68,Czech Republic,3,FIN,MOF,Ministry of Finance,0.12524368,139.6597971,non-iati
-NA,68,Czech Republic,4,MÌ´_MT,MEYS,"Miinistry of Education, Youth, Sports",4.5921139,NA,non-iati
+NA,68,Czech Republic,4,Mí«_MT,MEYS,"Miinistry of Education, Youth, Sports",4.5921139,NA,non-iati
 NA,68,Czech Republic,5,INT,MOI,Ministry of the Interior,13.28794597,NA,non-iati
 NA,68,Czech Republic,7,DEF,MD,Ministry of Defence,2.918802,NA,non-iati
 NA,68,Czech Republic,8,MoH,MH,Ministry of Health,0.0511442,NA,non-iati
@@ -71,7 +71,7 @@ NA,68,Czech Republic,11,JUSTICE,MJ,Ministry of Justice,0.310081,NA,non-iati
 NA,68,Czech Republic,13,NULL,Universities,Universities,0.619410734,NA,non-iati
 NA,68,Czech Republic,14,GOV,Regional Governments and Municipalities,Regional Governments and Municipalities,0.36516351,NA,non-iati
 NA,68,Czech Republic,15,ENV,MOE,Ministry of Environment,0.4016935,5.390454786,non-iati
-NA,68,Czech Republic,16,SÌÎ_JB,SUJB,State Office for Nuclear Saftey,0.1204364,NA,non-iati
+NA,68,Czech Republic,16,Síë_JB,SUJB,State Office for Nuclear Saftey,0.1204364,NA,non-iati
 NA,68,Czech Republic,19,AGRI,NULL,NULL,0.00688437,NA,non-iati
 Denmark - Danida - Danish Ministry of Foreigh Affairs,3,Denmark,1,MFA,MFA,Ministry of Foreign Affairs,1968.023263,864.7253751,checked
 NA,3,Denmark,3,IFU,NULL,NULL,95.33163276,NA,non-iati
@@ -87,10 +87,10 @@ NA,990,European Bank for Reconstruction and Development [EBRD],1,EBRD,NULL,NULL,
 NA,18,Finland,1,FG,FG,Finnish Government,17.98839285,145.1828558,non-iati
 NA,18,Finland,2,FF,FF,FinnFund,106.9407536,NA,non-iati
 Finland - Ministry of Foreign Affairs,18,Finland,3,MFA,MFA,Ministry of Foreign Affairs,863.605643,543.2939257,checked
-France - Ministry of Foreign Affairs and International Development,4,France,3,AFD,AFD,French Development Agency,5007.763471,353.1815648,checked
-NA,4,France,8,COOP DECENTRAL,COOP DECENTRALISEE,COOP DECENTRALISED,955.8127879,NA,non-iati
+Agence Française de Développement,4,France,3,AFD,AFD,French Development Agency,5007.763471,353.1815648,checked
+France - Ministry of Foreign Affairs and International Development,4,France,8,COOP DECENTRAL,COOP DECENTRALISEE,COOP DECENTRALISED,955.8127879,1415.658626,checked
 NA,4,France,10,MINEFI,MINEFI,"Ministry of Economy, Finance and Industry",547.1983634,943.4054557,non-iati
-NA,4,France,12,INT,IntÌÎå©rieur,Ministry of Interior,529.3000912,NA,non-iati
+NA,4,France,12,INT,IntíëŒ©rieur,Ministry of Interior,529.3000912,NA,non-iati
 NA,4,France,13,AGRI,AGRI,Ministry of Agriculture,11.95002413,NA,non-iati
 NA,4,France,14,DEF,DEF,Ministry of Defense,35.0759015,NA,non-iati
 NA,4,France,15,InterMin,INTER,Inter-ministerial,14.37972518,NA,non-iati
