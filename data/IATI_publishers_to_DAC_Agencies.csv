@@ -45,7 +45,7 @@ NA,2,Belgium,70,MPRF,MPRF,Flanders Official Regional Ministries
 NA,2,Belgium,80,MPRW,MPRW,Walloon Official Regional Ministries
 NA,2,Belgium,94,MPRG,MPRG,German speaking Official Regional Ministries
 Bill & Melinda Gates Foundation,1601,Bill & Melinda Gates Foundation,1,BMGF,Bill & Melinda Gates Foundation,NULL
-Canada - International Development Research Center / Centre de recherches pour le dí©veloppement international,301,Canada,2,IDRC,IDRC,International Development Research Centre
+Canada - International Development Research Center / Centre de recherches pour le d’©veloppement international,301,Canada,2,IDRC,IDRC,International Development Research Centre
 Canada - Global Affairs Canada / Affaires mondiales Canada,301,Canada,3,DFATD,DFATD,"Department of Foreign Affairs, Trade and Development"
 Canada Department of Finance,301,Canada,4,FIN,FIN,Department of Finance Canada
 NA,301,Canada,8,RCMP,RCMP,Royal Canadian Mounted Police of Canada
@@ -61,7 +61,7 @@ NA,1013,Council of Europe Development Bank [CEB],1,NULL,NULL,NULL
 NA,68,Czech Republic,1,CZDA,CZDA,Czech Development Agency
 NA,68,Czech Republic,2,MFA,MFA,Ministry of Foreign Affairs
 NA,68,Czech Republic,3,FIN,MOF,Ministry of Finance
-NA,68,Czech Republic,4,Mí«_MT,MEYS,"Miinistry of Education, Youth, Sports"
+NA,68,Czech Republic,4,M’Ç_MT,MEYS,"Miinistry of Education, Youth, Sports"
 NA,68,Czech Republic,5,INT,MOI,Ministry of the Interior
 NA,68,Czech Republic,7,DEF,MD,Ministry of Defence
 NA,68,Czech Republic,8,MoH,MH,Ministry of Health
@@ -71,7 +71,7 @@ NA,68,Czech Republic,11,JUSTICE,MJ,Ministry of Justice
 NA,68,Czech Republic,13,NULL,Universities,Universities
 NA,68,Czech Republic,14,GOV,Regional Governments and Municipalities,Regional Governments and Municipalities
 NA,68,Czech Republic,15,ENV,MOE,Ministry of Environment
-NA,68,Czech Republic,16,Síë_JB,SUJB,State Office for Nuclear Saftey
+NA,68,Czech Republic,16,S’‘_JB,SUJB,State Office for Nuclear Saftey
 NA,68,Czech Republic,19,AGRI,NULL,NULL
 Denmark - Danida - Danish Ministry of Foreigh Affairs,3,Denmark,1,MFA,MFA,Ministry of Foreign Affairs
 NA,3,Denmark,3,IFU,NULL,NULL
@@ -90,7 +90,7 @@ Finland - Ministry of Foreign Affairs,18,Finland,3,MFA,MFA,Ministry of Foreign A
 France - Ministry of Foreign Affairs and International Development,4,France,3,AFD,AFD,French Development Agency
 NA,4,France,8,COOP DECENTRAL,COOP DECENTRALISEE,COOP DECENTRALISED
 NA,4,France,10,MINEFI,MINEFI,"Ministry of Economy, Finance and Industry"
-NA,4,France,12,INT,IntíëŒ©rieur,Ministry of Interior
+NA,4,France,12,INT,Int’‘Î©rieur,Ministry of Interior
 NA,4,France,13,AGRI,AGRI,Ministry of Agriculture
 NA,4,France,14,DEF,DEF,Ministry of Defense
 NA,4,France,15,InterMin,INTER,Inter-ministerial
@@ -98,7 +98,7 @@ NA,4,France,17,MEN,MESR,Ministry of Higher education and Research
 NA,4,France,22,Proparco,NULL,NULL
 NA,4,France,30,MIN/EQUIPEMENT,NULL,NULL
 NA,4,France,37,MIN/TRAVAIL,MIN/TRAVAIL,MIN/TRAVAIL
-France - Ministry of Foreign Affairs and International Development,4,France,99,MISC,MISC,Miscellaneous
+NA,4,France,99,MISC,MISC,Miscellaneous
 Germany - Ministry for Economic Cooperation and Development,5,Germany,1,BMZ,BMZ,Bundesministerium Wirtschaftliche Zusammenarbeit und Entwicklung
 Germany - Ministry for Economic Cooperation and Development,5,Germany,2,KFW,KFW,Kreditanstalt Wiederaufbau
 NA,5,Germany,4,DEG,DEG,German Investment and Development Company
